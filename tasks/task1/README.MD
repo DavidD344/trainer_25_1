@@ -3,13 +3,13 @@
 O objetivo dessa atividade é conhecer melhor vocês
 Vocês podem usar **alert**, **prompt**, **confirm**, **console.log**, **condicionais (`if`)** e **comparadores (`>`, `<`, `>=`, `<=`)** criando um mini formulário interativo em JS.
 
-O formulário deve *TER NO MÍNIMO:*
+O formulário deve *TER NO MÍNIMO:*<br><br>
 
-Nome 
-Sobrenome 
-Idade 
-Area de interesse
-Anime/Filme/Serie
+Nome<br>
+Sobrenome<br>
+Idade<br>
+Area de interesse<br>
+Anime/Filme/Serie<br>
 
 
 E retornar em um alert a mensagem bonitinha com as informações.
@@ -30,9 +30,7 @@ Nivel 4. Mostrar quantos campos o usuário deixou vazio (Considere vazio textos 
 
 Nivel 5. Perguntar a linguagem de programação favorita e adaptar a mensagem final com base na resposta. (No texto do prompt deve mostrar as opções e so aceitar respostas válidas. Se a pessoa digitar algo diferente, pergunte de novo até acertar.)
 
-
-
----Como subir a tarefa
+---
 
 ### **Como entregar a atividade:**
 
