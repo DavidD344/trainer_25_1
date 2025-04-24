@@ -23,3 +23,10 @@ Tarefas plus:
 
 Plus: De alguma forma criar uma condicional que nao pergunta e ja retorna os dados corretamente de vocês
 Plus2: Veriricar se o usuário é maior de idade
+
+
+---Como subir a tarefa
+
+Acesse o link https://github.com/DavidD344/trainer_25_1/tree/dev
+
+acesse a pasta task, depois task1 e faça upload do arquivo zipado
