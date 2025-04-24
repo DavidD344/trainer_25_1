@@ -1,8 +1,11 @@
 ### Atividade 1
-
-alert("maior de idade"); // mostra alerta na tela
-prompt("Qual sua idade"); //  recebe string
-confirm("Voce quer verificar a sua idade?"); // recebe boolean
+Coisas a usar:
+alert("maior de idade"); // mostra alerta na tela \n
+prompt("Qual sua idade"); //  recebe string \n
+confirm("Voce quer verificar a sua idade?"); // recebe boolean \n
+console.log()\n
+if 
+>< <= >=
 
 
 O objetivo dessa atividade é conhecer melhor vocês
