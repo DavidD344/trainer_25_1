@@ -10,7 +10,7 @@ Estrutura:
 
     1 classe Kwid: Deve estender a classe Car. Deve ter no mínimo o metódo roncar e competir.
 
-    ps: Mesmo roncar tendo em todos botei o roncar na classe de modelo a fins didaticos.
+    ps: Mesmo 'roncar' e 'competir' tendo em todos botei o 'roncar' e 'competir' na classe de modelo a fins didaticos.
     
 Ou seja, cada modelo de carro será uma subclasse de Car.
 
