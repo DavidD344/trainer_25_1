@@ -20,7 +20,7 @@ Sobre os metodos
 
     O metodo roncar deve retornar o ronco do motor.
 
-    Cada carro deve ter o método 'competir', deve retornar o tempo que ele leva para acelerar de 0 a 100 km/h.
+    O metodo competir deve retornar o tempo que ele leva para acelerar de 0 a 100 km/h.
 
 
 Organização :
