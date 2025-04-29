@@ -1,24 +1,53 @@
-<!-- Zoologico -->
 
-Criar uma industria de carros com 2 modelos de carro, é obrigatorio os modelos extenderem o carro, ou seja.
+Você deve criar uma pequena indústria de carros com os seguintes requisitos:
+Estrutura:
 
-1 Classe para definir o Car
-1 Classe para cada Fusca extendendo a classe Car
-1 Classe para cada UnoDeEscada extendendo a classe Car
-1 Classe para cada Kwid extendendo a classe Car
+    1 classe Car: Classe base para todos os carros.
+
+        Deve possuir, no mínimo, o método roncar().
+
+    1 classe Fusca: Deve estender (extends) a classe Car.
+
+    1 classe UnoDeEscada: Deve estender a classe Car.
+
+    1 classe Kwid: Deve estender a classe Car.
+
+Ou seja, cada modelo de carro será uma subclasse de Car.
+
+Regras:
+
+    Cada carro precisa ter o método 'roncar'.
+
+    Cada carro deve ter o método 'competir', que retorna o tempo que ele leva para acelerar de 0 a 100 km/h.
 
 
-ps: o Car tem que ter no minimo o metodo roncar
+Arquivos:
 
-Para essa atividade é necessário que todas classes estejam em arquivos separados e no main.js você deve instanciar os tres modelos de carro e fazer eles roncarem e depois fazer eles competirem.
+    Cada classe deve estar em um arquivo separado na pasta "assets/entities".
 
-competir = Metodo que retorna o tempo em que eles chegam de 0 a 100
+    No main.js, você deverá:
 
-E o carro que chegar de 0 a 100 primeiro vence.
+        Importar as três classes.
+
+        Instanciar um carro de cada modelo.
+
+        Fazer os três roncarem (chamar o método roncar() de cada um).
+
+        Fazer os três competirem e quem tiver menor tempo de 0 a 100 vence.
 
 
-Task adicional
+Task adicional (opcional):
 
-1 Classe com o carro de preferencia de voces (nome, ronco)
+    Crie também 1 carro extra, à sua escolha, com no minimo:
 
-DIMITRI
+        Nome do carro
+
+        Som do ronco
+    
+    Pode ter outros metodos ao teu gosto.
+
+    No final vamos avaliar todos os carros e decidir o vencedor.
+
+---
+
+Lista da aula: DIMITRI
