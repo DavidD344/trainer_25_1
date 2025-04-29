@@ -2,9 +2,7 @@
 Você deve criar uma pequena indústria de carros com os seguintes requisitos:
 Estrutura:
 
-    1 classe Car: Classe base para todos os carros.
-
-        Deve possuir, no mínimo, o método roncar().
+    1 classe Car: Classe base para todos os carros: Essa classe Deve possuir, no mínimo, o método roncar().
 
     1 classe Fusca: Deve estender (extends) a classe Car.
 
